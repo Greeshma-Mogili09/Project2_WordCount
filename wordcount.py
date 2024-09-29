@@ -1,4 +1,3 @@
-# Word Counter Program with Enhanced Error Handling
 
 # Function to count words in the user input
 def count_words(text):
